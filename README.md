@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moulij
-- 🌱 I’m currently learning data visulization skills with MySQL, POWERBI.
+- 🌱 I’m currently enhancing data visulization skills with MySQL, POWERBI.
 
 
 <!---
